@@ -8,7 +8,7 @@
 ## Description 
 
 We've learned how to test, configure, and automate our environment to provide useful toolchains that effortlessly improve our work.
-For this project we used HTML, JavaScript, Bootstrap, SASS, Cypress, and Jest.
+We used HTML, JavaScript, Bootstrap, SASS, Cypress, and Jest for this project.
 
 ## Built With
 
@@ -36,6 +36,6 @@ Globally:
 
 ## Acknowledgements 
 
-Thank you to.......
+Big thanks to my classmates for helping me out on Discord, especially Hans M. Andreassen. 
 
 
