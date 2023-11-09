@@ -22,9 +22,13 @@ dasdasdasdas
 
 ## How to Install 
 
+To get all the dependencies for the project, run: 
+* npm install
+
 ## How to Use
 
-## Credits
+* npm start
+* npm run build
 
 ## Acknowledgements 
 
