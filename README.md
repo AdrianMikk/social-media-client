@@ -7,7 +7,8 @@
 
 ## Description 
 
-dasdasdasdas
+We've learned how to test, configure, and automate our environment to provide useful toolchains that effortlessly improve our work.
+For this project we used HTML, JavaScript, Bootstrap, SASS, Cypress, and Jest.
 
 ## Built With
 
@@ -27,7 +28,9 @@ To get all the dependencies for the project, run:
 
 ## How to Use
 
+Locally:
 * npm start
+Globally:
 * npm run build
 
 ## Acknowledgements 
