@@ -30,6 +30,7 @@ To get all the dependencies for the project, run:
 
 Locally:
 * npm start
+
 Globally:
 * npm run build
 
