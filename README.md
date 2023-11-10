@@ -24,12 +24,15 @@ We used HTML, JavaScript, Bootstrap, SASS, Cypress, and Jest for this project.
 ## How to Install 
 
 To get all the dependencies for the project, run: 
-* npm install
+*     npm install
 
 ## How to Use
 
-* npm start
-* npm run build
+Locally: 
+*     npm start
+
+Compiling Sass files into CSS: 
+*     npm run build
 
 ## Testing 
 
