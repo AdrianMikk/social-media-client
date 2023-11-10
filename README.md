@@ -37,24 +37,24 @@ To get all the dependencies for the project, run:
 
 Test files: 
 
-- cypress/e2e\3-testing/login.cy.js
--    The user can access the profile when logged in
--    The user gets denied with empty input field
--    The user gets denied with empty password field
--    The user gets denied with invalid email
--    The user gets denied with invalid password
+* cypress/e2e\3-testing/login.cy.js
+*    The user can access the profile when logged in
+*    The user gets denied with empty input field
+*    The user gets denied with empty password field
+*    The user gets denied with invalid email
+*    The user gets denied with invalid password
   
-- cypress/e2e\3-testing/logout.cy.js
--    The user logs in existing user, to then log out.
+* cypress/e2e\3-testing/logout.cy.js
+*    The user logs in existing user, to then log out.
 
 ### Unit Testing with Jest
 
 Test files: 
--  src/js/test/login.test.js
--    The login function fetches and stores a token in browser storage
+*  src/js/test/login.test.js
+*    The login function fetches and stores a token in browser storage
   
--  src/js/test/logout.test.js
--    The logout function clears the token from browser storage
+*  src/js/test/logout.test.js
+*    The logout function clears the token from browser storage
 
 ## Acknowledgements 
 
